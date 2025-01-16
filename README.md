@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nouman Khan</h1>
 <h3 align="center">"Crafting Data-Driven Solutions: A Journey Through Software Development and Data Science from the Heart of Pakistan"</h3>
 
-<p align="left"> <a href="https://twitter.com/nk_noul" target="blank"><img src="https://img.shields.io/twitter/follow/nk_noul?logo=twitter&style=for-the-badge" alt="nk_noul" /></a> </p>
+<p align="left"> <a href="https://twitter.com/buildwithnouman" target="blank"><img src="https://img.shields.io/twitter/follow/nk_noul?logo=twitter&style=for-the-badge" alt="buildwithnouman" /></a> </p>
 
 - 🌱 I’m currently learning **Vue3,Vue2, Vuetify, Tailwind, css, html, typescript, nuxt,ML and data analyst**
 
