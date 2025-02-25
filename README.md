@@ -8,12 +8,9 @@
   <a href="https://twitter.com/buildwithnouman" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://leetcode.com/nouman_data" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://kaggle.com/noumankhannoul" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
+<a href="https://buildwithnouman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1A73E8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
 </p>
 
 ## About Me 👨‍💻
